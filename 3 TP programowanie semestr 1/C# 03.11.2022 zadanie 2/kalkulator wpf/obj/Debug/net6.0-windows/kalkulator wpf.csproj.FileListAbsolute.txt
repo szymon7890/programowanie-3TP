@@ -1,0 +1,27 @@
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\kalkulator wpf.csproj.AssemblyReference.cache
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\kalkulator wpf_MarkupCompile.cache
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\kalkulator wpf.g.resources
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\kalkulator wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\kalkulator wpf.AssemblyInfoInputs.cache
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\kalkulator wpf.AssemblyInfo.cs
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\kalkulator wpf.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\bin\Debug\net6.0-windows\kalkulator wpf.exe
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\bin\Debug\net6.0-windows\kalkulator wpf.deps.json
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\bin\Debug\net6.0-windows\kalkulator wpf.runtimeconfig.json
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\bin\Debug\net6.0-windows\kalkulator wpf.dll
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\bin\Debug\net6.0-windows\kalkulator wpf.pdb
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\kalkulator wpf.dll
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\refint\kalkulator wpf.dll
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\kalkulator wpf.pdb
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\kalkulator wpf.genruntimeconfig.cache
+C:\Users\Szymon\source\repos\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\ref\kalkulator wpf.dll
+C:\Users\graje\Desktop\3 TP\3 TP C# i XAML\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\graje\Desktop\3 TP\3 TP C# i XAML\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\graje\Desktop\3 TP\3 TP C# i XAML\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\graje\Desktop\3 TP\3 TP C# i XAML\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\kalkulator wpf_MarkupCompile.cache
+C:\Users\graje\Desktop\3 TP\3 TP C# i XAML\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\kalkulator wpf.dll
+C:\Users\graje\Desktop\3 TP\3 TP C# i XAML\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\refint\kalkulator wpf.dll
+C:\Users\graje\Desktop\3 TP\3 TP C# i XAML\kalkulator wpf\kalkulator wpf\obj\Debug\net6.0-windows\kalkulator wpf.pdb

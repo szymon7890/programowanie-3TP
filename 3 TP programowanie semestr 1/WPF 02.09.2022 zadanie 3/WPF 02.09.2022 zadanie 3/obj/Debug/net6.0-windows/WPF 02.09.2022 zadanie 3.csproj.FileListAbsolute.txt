@@ -1,0 +1,21 @@
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\bin\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.exe
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\bin\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.deps.json
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\bin\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.runtimeconfig.json
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\bin\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.dll
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\bin\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.pdb
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3_MarkupCompile.cache
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3_MarkupCompile.lref
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.g.resources
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.AssemblyInfoInputs.cache
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.AssemblyInfo.cs
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.csproj.CoreCompileInputs.cache
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.sourcelink.json
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.dll
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\refint\WPF 02.09.2022 zadanie 3.dll
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.pdb
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\WPF 02.09.2022 zadanie 3.genruntimeconfig.cache
+C:\Users\graje\source\repos\WPF 02.09.2022 zadanie 3\WPF 02.09.2022 zadanie 3\obj\Debug\net6.0-windows\ref\WPF 02.09.2022 zadanie 3.dll

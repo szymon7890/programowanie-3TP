@@ -1,0 +1,73 @@
+﻿<Window x:Class="WPF_02._09._2022_zadanie_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_02._09._2022_zadanie_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Border Padding="5">
+        <!-- Dodanie obramowania z wypełnieniem o wartości 5 pikseli -->
+        <Grid>
+            <!-- Rozpoczęcie definicji siatki (grid) -->
+
+            <!-- Definicje siatki -->
+            <Grid.RowDefinitions>
+                <!-- Deklaracja definicji wierszy siatki -->
+                <RowDefinition/>
+                <!-- Pierwszy wiersz zajmuje dostępną przestrzeń -->
+                <RowDefinition/>
+                <!-- Drugi wiersz zajmuje dostępną przestrzeń -->
+                <RowDefinition/>
+                <!-- Trzeci wiersz zajmuje dostępną przestrzeń -->
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <!-- Deklaracja definicji kolumn siatki -->
+                <ColumnDefinition Width="*"/>
+                <!-- Pierwsza kolumna zajmuje dostępną przestrzeń z elastycznością -->
+                <ColumnDefinition Width="75"/>
+                <!-- Druga kolumna ma szerokość 75 pikseli -->
+                <ColumnDefinition Width="4*"/>
+                <!-- Trzecia kolumna zajmuje czterokrotnie więcej przestrzeni niż pierwsza -->
+            </Grid.ColumnDefinitions>
+
+            <!-- Kontrolki -->
+            <TextBlock Text="CPU:" FontWeight="Bold" VerticalAlignment="Center"/>
+            <!-- Tekst "CPU:" z pogrubieniem i wyśrodkowaniem w pionie -->
+            <TextBox Grid.Row="0" Grid.Column="1" Name="tb_CPU" Margin="5 0" VerticalAlignment="Center" TextChanged="TextBox_TextChanged" Padding="15 4"/>
+            <!-- Pole tekstowe dla CPU związane z wierszem 0 i kolumną 1, z marginesem, wyśrodkowaniem w pionie, obsługą zdarzenia TextChanged i wypełnieniem -->
+
+            <Button Grid.Row="0" Grid.Column="2" Name="btn_CoolDown" Content="Cool Down" IsEnabled="False" Click="btn_CoolDown_Click"/>
+            <!-- Przycisk "Cool Down" związany z wierszem 0 i kolumną 2, wyłączony na starcie, z obsługą zdarzenia Click -->
+
+            <TextBlock Grid.Row="1" Text="Memory:" FontWeight="Bold" VerticalAlignment="Center"/>
+            <!-- Tekst "Memory:" z pogrubieniem i wyśrodkowaniem w pionie -->
+            <TextBox Grid.Row="1" Grid.Column="1" Name="tb_memory" Margin="5 0" VerticalAlignment="Center" Padding="15 4"/>
+            <!-- Pole tekstowe dla pamięci związane z wierszem 1 i kolumną 1, z marginesem, wyśrodkowaniem w pionie i wypełnieniem -->
+
+            <StackPanel Grid.Column="2" Grid.Row="1" VerticalAlignment="Center">
+                <!-- Panel stosu związany z wierszem 1 i kolumną 2, wyśrodkowany w pionie -->
+                <CheckBox Grid.Column="2" Grid.Row="1" VerticalAlignment="Center" Content="Limit use" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+                <!-- Pole wyboru "Limit use" związane z obsługą zdarzeń Checked i Unchecked -->
+                <CheckBox Grid.Column="2" Grid.Row="1" VerticalAlignment="Center" Content="Gray" Checked="CheckBox_Checked_1" Unchecked="CheckBox_Unchecked_1"/>
+                <!-- Pole wyboru "Gray" związane z obsługą zdarzeń Checked i Unchecked -->
+            </StackPanel>
+
+            <TextBlock Grid.Column="0" Grid.Row="2" Text="Control:"/>
+            <!-- Tekst "Control:" związany z wierszem 2 i kolumną 0 -->
+            <ComboBox Grid.Column="1" Grid.Row="2" x:Name="combo" SelectedIndex="0">
+                <!-- Lista rozwijana związana z wierszem 2 i kolumną 1, z wybranym indeksem 0 -->
+                <ComboBoxItem Content="1"/>
+                <!-- Pozycja 1 -->
+                <ComboBoxItem Content="2"/>
+                <!-- Pozycja 2 -->
+            </ComboBox>
+
+        </Grid>
+        <!-- Zamknięcie definicji siatki -->
+    </Border>
+    <!-- Zamknięcie obramowania -->
+</Window>
+<!-- Zamknięcie okna -->

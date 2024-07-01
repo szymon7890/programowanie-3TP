@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\graje\\source\\repos\\C# 03.11.2022 zadanie 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4113CCB7-F1FC-487A-9DCE-64CFD5F787BF}|C# 03.11.2022 zadanie 1\\C# 03.11.2022.csproj|c:\\users\\graje\\source\\repos\\c# 03.11.2022 zadanie 1\\c# 03.11.2022 zadanie 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4113CCB7-F1FC-487A-9DCE-64CFD5F787BF}|C# 03.11.2022 zadanie 1\\C# 03.11.2022.csproj|solutionrelative:c# 03.11.2022 zadanie 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|C# 03.11.2022||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4113CCB7-F1FC-487A-9DCE-64CFD5F787BF}|C# 03.11.2022 zadanie 1\\C# 03.11.2022 zadanie 1.csproj|C:\\Users\\graje\\source\\repos\\C# 03.11.2022 zadanie 1\\c# 03.11.2022 zadanie 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4113CCB7-F1FC-487A-9DCE-64CFD5F787BF}|C# 03.11.2022 zadanie 1\\C# 03.11.2022 zadanie 1.csproj|solutionrelative:c# 03.11.2022 zadanie 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\graje\\source\\repos\\C# 03.11.2022 zadanie 1\\C# 03.11.2022 zadanie 1\\Program.cs",
+              "RelativeDocumentMoniker": "C# 03.11.2022 zadanie 1\\Program.cs",
+              "ToolTip": "C:\\Users\\graje\\source\\repos\\C# 03.11.2022 zadanie 1\\C# 03.11.2022 zadanie 1\\Program.cs",
+              "RelativeToolTip": "C# 03.11.2022 zadanie 1\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:15:57.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C# 03.11.2022",
+              "DocumentMoniker": "C:\\Users\\graje\\source\\repos\\C# 03.11.2022 zadanie 1\\C# 03.11.2022 zadanie 1\\C# 03.11.2022.csproj",
+              "RelativeDocumentMoniker": "C# 03.11.2022 zadanie 1\\C# 03.11.2022.csproj",
+              "ToolTip": "C:\\Users\\graje\\source\\repos\\C# 03.11.2022 zadanie 1\\C# 03.11.2022 zadanie 1\\C# 03.11.2022.csproj*",
+              "RelativeToolTip": "C# 03.11.2022 zadanie 1\\C# 03.11.2022.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-09T13:14:31.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\graje\\source\\repos\\C# 03.11.2022 zadanie 1\\C# 03.11.2022 zadanie 1\\Program.cs",
+              "RelativeDocumentMoniker": "C# 03.11.2022 zadanie 1\\Program.cs",
+              "ToolTip": "C:\\Users\\graje\\source\\repos\\C# 03.11.2022 zadanie 1\\C# 03.11.2022 zadanie 1\\Program.cs",
+              "RelativeToolTip": "C# 03.11.2022 zadanie 1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:07:21.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

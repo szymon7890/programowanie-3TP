@@ -1,0 +1,7 @@
+C:\Users\graje\source\repos\C# 03.11.2022 zadanie 1\C# 03.11.2022 zadanie 1\bin\Debug\C# 03.11.2022 zadanie 1.exe.config
+C:\Users\graje\source\repos\C# 03.11.2022 zadanie 1\C# 03.11.2022 zadanie 1\bin\Debug\C# 03.11.2022 zadanie 1.exe
+C:\Users\graje\source\repos\C# 03.11.2022 zadanie 1\C# 03.11.2022 zadanie 1\bin\Debug\C# 03.11.2022 zadanie 1.pdb
+C:\Users\graje\source\repos\C# 03.11.2022 zadanie 1\C# 03.11.2022 zadanie 1\obj\Debug\C# 03.11.2022 zadanie 1.csproj.AssemblyReference.cache
+C:\Users\graje\source\repos\C# 03.11.2022 zadanie 1\C# 03.11.2022 zadanie 1\obj\Debug\C# 03.11.2022 zadanie 1.csproj.CoreCompileInputs.cache
+C:\Users\graje\source\repos\C# 03.11.2022 zadanie 1\C# 03.11.2022 zadanie 1\obj\Debug\C# 03.11.2022 zadanie 1.exe
+C:\Users\graje\source\repos\C# 03.11.2022 zadanie 1\C# 03.11.2022 zadanie 1\obj\Debug\C# 03.11.2022 zadanie 1.pdb

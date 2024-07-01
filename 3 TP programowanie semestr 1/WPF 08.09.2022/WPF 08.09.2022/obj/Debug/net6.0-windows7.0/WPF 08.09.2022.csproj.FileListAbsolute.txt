@@ -1,0 +1,21 @@
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\bin\Debug\net6.0-windows7.0\WPF 08.09.2022.exe
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\bin\Debug\net6.0-windows7.0\WPF 08.09.2022.deps.json
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\bin\Debug\net6.0-windows7.0\WPF 08.09.2022.runtimeconfig.json
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\bin\Debug\net6.0-windows7.0\WPF 08.09.2022.dll
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\bin\Debug\net6.0-windows7.0\WPF 08.09.2022.pdb
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\MainWindow.g.cs
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\App.g.cs
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\WPF 08.09.2022_MarkupCompile.cache
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\WPF 08.09.2022_MarkupCompile.lref
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\MainWindow.baml
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\WPF 08.09.2022.g.resources
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\WPF 08.09.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\WPF 08.09.2022.AssemblyInfoInputs.cache
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\WPF 08.09.2022.AssemblyInfo.cs
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\WPF 08.09.2022.csproj.CoreCompileInputs.cache
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\WPF 08.09.2022.sourcelink.json
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\WPF 08.09.2022.dll
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\refint\WPF 08.09.2022.dll
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\WPF 08.09.2022.pdb
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\WPF 08.09.2022.genruntimeconfig.cache
+C:\Users\graje\source\repos\WPF 08.09.2022\WPF 08.09.2022\obj\Debug\net6.0-windows7.0\ref\WPF 08.09.2022.dll

@@ -1,0 +1,7 @@
+C:\Users\graje\source\repos\C# 03.11.2022\C# 03.11.2022\obj\Debug\C# 03.11.2022.csproj.AssemblyReference.cache
+C:\Users\graje\source\repos\C# 03.11.2022\C# 03.11.2022\obj\Debug\C# 03.11.2022.csproj.CoreCompileInputs.cache
+C:\Users\graje\source\repos\C# 03.11.2022\C# 03.11.2022\bin\Debug\C# 03.11.2022.exe.config
+C:\Users\graje\source\repos\C# 03.11.2022\C# 03.11.2022\bin\Debug\C# 03.11.2022.exe
+C:\Users\graje\source\repos\C# 03.11.2022\C# 03.11.2022\bin\Debug\C# 03.11.2022.pdb
+C:\Users\graje\source\repos\C# 03.11.2022\C# 03.11.2022\obj\Debug\C# 03.11.2022.exe
+C:\Users\graje\source\repos\C# 03.11.2022\C# 03.11.2022\obj\Debug\C# 03.11.2022.pdb

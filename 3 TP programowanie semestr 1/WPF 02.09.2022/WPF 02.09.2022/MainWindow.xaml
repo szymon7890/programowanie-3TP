@@ -1,0 +1,47 @@
+﻿<Window x:Class="WPF_02._09._2022.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_02._09._2022"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="525" Loaded="Window_Loaded">
+
+    <Border Padding="5 20 40 50" Background="Red">
+        <!-- Definicja elementu Border z paddingiem 5 jednostek od lewej, 20 jednostek od góry, 40 jednostek od prawej i 50 jednostek od dołu oraz czerwonym tłem -->
+
+        <Grid Margin="5" Background="Green">
+            <!-- Definicja elementu Grid z marginesem 5 jednostek dookoła i zielonym tłem -->
+
+            <!-- Definicje wierszy siatki -->
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <!-- Tworzenie trzech wierszy w siatce -->
+            </Grid.RowDefinitions>
+
+            <!-- Definicje kolumn siatki -->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <!-- Tworzenie trzech kolumn w siatce, gdzie pierwsza kolumna ma szerokość automatycznie dopasowaną do zawartości, a pozostałe dwie kolumny dzielą resztę dostępnego miejsca po równo -->
+            </Grid.ColumnDefinitions>
+
+            <!-- Pierwszy przycisk w pierwszym wierszu i pierwszej kolumnie (domyślne ustawienie) -->
+            <Button Content="First button"/>
+            <!-- Tworzenie przycisku z napisem "First button" w pierwszym wierszu i pierwszej kolumnie -->
+
+            <!-- Drugi przycisk w drugim wierszu i drugiej kolumnie z marginesem -->
+            <Button Grid.Row="1" Grid.Column="1" Content="Button #2" Margin="5 0"/>
+            <!-- Tworzenie przycisku z napisem "Button #2" w drugim wierszu i drugiej kolumnie oraz marginesem 5 jednostek od lewej i prawej oraz bez marginesu od góry i dołu -->
+
+            <!-- Trzeci przycisk w trzecim wierszu i trzeciej kolumnie -->
+            <Button Grid.Row="2" Grid.Column="2" Content="Button #3"/>
+            <!-- Tworzenie przycisku z napisem "Button #3" w trzecim wierszu i trzeciej kolumnie -->
+
+        </Grid>
+    </Border>
+
+</Window>
