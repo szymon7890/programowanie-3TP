@@ -39,6 +39,6 @@ To repozytorium zawiera projekty związane z moją klasą szkolną 3 TP. które 
 - XAML
 - Python3
 
-Dzięki tym projektom chcemy pokazać praktyczne doświadczenie w programowaniu w języku C++, C#, XAML, Python3 i udoskonalać moich umiejętności.
+Dzięki tym projektom chce pokazać praktyczne doświadczenie w programowaniu w języku C++, C#, XAML, Python3 i udoskonalać moje umiejętności.
 
 Zapraszam do zapoznania się z moimi projektami!
