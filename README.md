@@ -20,7 +20,17 @@ To repozytorium zawiera projekty związane z moją klasą szkolną 3 TP. które 
 
 ## 3TP semestr 2
 
-12. []():
+12. [Python3 05.03.2023](): Logika sterowania oświetleniem w trybie automatycznym.
+13. [Python3 13.03.2023](): Podstawowe operacje matematyczne.
+14. [Python3 27.03.2023](): Iterowanie przez dużą liczbę iteracji z wyrażeniem 'I like Python'.
+15. [Python3 24.04.2023](): Sprawdzanie trójek wartości w liście.
+16. [Python3 24.04.2023 zadanie 2](): Generowanie adresów e-mail.
+17. [Python3 24.04.2023 zadanie 3](): Operacje na liczbach.
+18. [Python3 19.05.2023](): Operatory porównania w Python.
+19. [Python3 19.05.2023 zadanie 2](): Sprawdzanie warunków dla rabatu artykułu.
+20. [Python3 19.05.2023 zadanie 3 ](): Podstawowe operacje matematyczne.
+21. [Python3 19.05.2023 zadanie 4](): Podstawowe operacje arytmetyczne w Python.
+22. [Python3 25.05.2023](): Iterowanie przez zakres z wyrażeniem 'I like Python'.
 
 ## Wymagania techniczne:
 
